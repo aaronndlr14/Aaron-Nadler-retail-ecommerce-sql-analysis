@@ -8,7 +8,7 @@ email: aaronndlr@gmail.com
 - Jupyter Notebook
 
 
-- used Synthetic data created by CLAUDE for the purposes of practiging SQL Queries
+- used Synthetic data created by CLAUDE for the purposes of practicing SQL Queries
 
 -  All queries written in MySQL Workbench. Results were exported to CSV and visualised in Python using Matplotlib.
 
