@@ -12,3 +12,4 @@ email: aaronndlr@gmail.com
 
 -  All queries written in MySQL Workbench. Results were exported to CSV and visualised in Python using Matplotlib.
 
+- SQL queries are in markdown under each chart in Juypter Notebook
